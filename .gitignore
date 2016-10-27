@@ -1,9 +1,9 @@
 /*      2 JUEGOS DE 6 LUCES EMPLEANDO CICLOS FOR 
  * 
  * Este programa consta de 2 juegos de luces con 6 leds.
- * Juego 1: Este juego tiene un for anidado y funciona cuando switch 1=1 y switch 2=0.Inicia  el juego y este se repite el numero de veces que sea igual al número random.
- * Juego 3: Este juego tiene un for anidado y funciona cuando switch 1=0 y switch 2=1.Inicia  el juego y Se van prendiendo desde los extremos en serie hacia el centro, 
- * y al momento de estar encendidos todos, empiezan a apagarse de dos en dos desde el centro hacia los extremos., este se repite el numero de veces que sea igual al número random.
+ * Juego 1: Este juego tiene un for anidado y funciona cuando switch 1=1 y switch 2=0.el juego consiste en que se repite la secuencia el numero de veces que sea igual al random.
+ * Juego 2: Este juego tiene un for anidado y funciona cuando switch 1=0 y switch 2=1.el juego consiste en que se prendan los leds desde los extremos en serie hacia el centro, 
+ * y al momento de encenderse todos, empiezan a apagarse de dos en dos desde el centro hacia los extremos, este se repite el numero de veces que sea igual al número random.
  *  
  * NOMBRE: Guerra Vallejos Mario Patricio 
  *  27 de Octubre 2016
